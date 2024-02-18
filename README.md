@@ -8,9 +8,9 @@
     
 - <b>Microsoft Azure</b>
 
-  -[Installing Active Directory within Azure](https://github.com/RodneyChery/Installing-Active-Directory-within-Azure/blob/main/README.md)
-  - [Configuring Active Directory within Azure](https://github.com/RodneyChery/configure-ad)
   - [Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols](https://github.com/RodneyChery/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
+  - [Configuring Active Directory within Azure](https://github.com/RodneyChery/configure-ad)
+  -[Installing Active Directory within Azure](https://github.com/RodneyChery/Installing-Active-Directory-within-Azure/blob/main/README.md)
 
 - <c>Amazon AWS </c>
   - [Hosting a website via AWS](https://github.com/RodneyChery/wordpress-website-awscloud)
