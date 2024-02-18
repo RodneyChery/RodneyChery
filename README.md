@@ -1,4 +1,4 @@
-<h1>Hello,My name is Rodney, an <a href="https://linkedin.com/in/rodneyachery">Aspiring IT Professional and Student Software Engineer at Western Governors University. </a></h1>
+<h1>Hello, My name is Rodney, an <a href="https://linkedin.com/in/rodneyachery">Aspiring IT Professional and Student Software Engineer at Western Governors University. </a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
