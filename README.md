@@ -14,7 +14,7 @@
   - [Installing Active Directory within Azure](https://github.com/RodneyChery/Installing-Active-Directory-within-Azure/blob/main/README.md)
   - [Configuring Active Directory within Azure](https://github.com/RodneyChery/configure-ad)
   - [Understanding DNS in Azure](https://github.com/RodneyChery/Understanding-DNS-in-Azure)
-  - [Understanding File Permissions in Azure]()
+  - [Understanding File Permissions in Azure](https://github.com/RodneyChery/Understanding-File-Permissions-in-Azure)
 
 
     
