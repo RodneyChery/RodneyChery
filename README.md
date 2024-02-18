@@ -26,5 +26,5 @@
 [<img align="left" alt="Rodney | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[instagram]: https://www.instagram.com/chefrodvlogs____
+
 [linkedin]: https://linkedin.com/in/rodneyachery
