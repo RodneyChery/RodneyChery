@@ -8,7 +8,7 @@
     
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/RodneyChery/configure-ad)
-  - [Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols]
+  - [Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols](https://github.com/RodneyChery/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 
 - <c>Amazon AWS </c>
   - [Hosting a website via AWS](https://github.com/RodneyChery/wordpress-website-awscloud)
