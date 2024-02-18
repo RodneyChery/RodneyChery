@@ -15,9 +15,7 @@
   - [Configuring Active Directory within Azure](https://github.com/RodneyChery/configure-ad)
   - 
 
-- <c>Amazon AWS </c>
-  - [Hosting a website via AWS](https://github.com/RodneyChery/wordpress-website-awscloud)
-    
+
     
 
 <h2>🤳Connect with me:</h2>
